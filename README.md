@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The Original Dish Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See The live project in this URL [The Original Dish](https://the-original-dish.web.app/).
 
 ## Available Scripts
 
